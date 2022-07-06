@@ -24,7 +24,7 @@ docutils==0.13.1
 ez-setup==0.9
 feedparser==5.1.3
 gunicorn==19.7.1
-html5lib==0.999
+html5lib==0.999999999
 Jinja2==2.9.6
 kombu==3.0.37
 langdetect==1.0.5
